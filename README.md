@@ -7,6 +7,7 @@
 - Optimized
 - Easy Configuration
 - Exploit Free
+- Custom Icons
 
 <br>
 
